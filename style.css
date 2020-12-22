@@ -1,0 +1,8 @@
+#mycanvas{
+    background-color:rgb(134, 122, 122);
+    border-width:50px ;
+    border-style:solid ;
+}
+.bodybackground{
+ background-image:url("bg1.jpg");
+}
